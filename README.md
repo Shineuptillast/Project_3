@@ -1,7 +1,7 @@
 # Project_4
 Address Registry GUI Application
 
-# The data of the users is stored in the database at the backend, the user has various options to either add, delete and see the records that are stored in the database.
+# The data of the users are stored in the database at the backend, the user has various options to either add, delete and see the records that are stored in the database.
 
 
 # Interface
